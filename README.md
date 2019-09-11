@@ -1,2 +1,2 @@
 # Samuel
-This is a repository for files
+This is a repository for random files
